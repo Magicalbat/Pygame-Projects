@@ -1,0 +1,141 @@
+{
+    "imgPath": "res/labtiles.png",
+    "imgTilePadding": [
+        1,
+        1
+    ],
+    "imgTileSheetDim": [
+        5,
+        5
+    ],
+    "tileSize": 16,
+    "tileNum": 25,
+    "tiles": [
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "defaultAutotile": true,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b10"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b11"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1010"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1011"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1001"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1000"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1110"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1111"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1101"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b1100"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b110"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b111"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b101"
+        },
+        {
+            "collision": true,
+            "enableAutotile": true,
+            "autotile": "0b100"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        }
+    ]
+}

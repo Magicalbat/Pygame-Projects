@@ -1,0 +1,60 @@
+{
+    "imgPath": "res/petridishtiles.png",
+    "imgTilePadding": [
+        1,
+        1
+    ],
+    "imgTileSheetDim": [
+        3,
+        3
+    ],
+    "tileSize": 16,
+    "tileNum": 9,
+    "tiles": [
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile" : "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        },
+        {
+            "collision": true,
+            "enableAutotile": false,
+            "autotile": "0b0"
+        }
+    ]
+}

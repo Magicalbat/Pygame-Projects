@@ -1,0 +1,17 @@
+12;12
+   X            
+   X            
+    X           
+    XXXX        
+    X.XXX       
+   XX..XXX      
+  X..X..XXX     
+ X.......XXX    
+X.........X X   
+ X.......X XXX  
+  X.....X  X.X  
+   X...X XXX.XXX
+    X.X  X.....X
+     X   XXX.XXX
+           X.X  
+           XXX  

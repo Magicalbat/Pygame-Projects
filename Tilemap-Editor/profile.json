@@ -1,0 +1,58 @@
+{
+    "load map" : "",
+    "tileset" : "labtiles.json",
+    "reverse scroll" : false,
+    "scroll speed" : 250,
+    "input" :
+    {
+        "Grid" : ["g"],
+        "Pencil" : ["p"],
+        "Box Select" : ["s"],
+        "Bucket" : ["b"],
+        "Color Picker" : ["k"],
+        "Extra Data" : ["`"],
+        "Change Layer" : ["tab", "space"],
+        "Undo" : ["z"],
+        "Save" : ["s"],
+        "Control" : ["left ctrl", "right ctrl"],
+        "Shift" : ["left shift", "right shift"],
+        "Alt Scroll Grab" : ["h"],
+        "Selection Delete" : ["x"],
+        "Selection Fill" : ["f"],
+        "Selection Autotile" : ["a"]
+    },
+    "colors" :
+    {
+        "Side Bar" : [35, 35, 50],
+        "Tileview" : [50, 50, 125]
+    },
+    "export" :
+    {
+        "indent" : 4
+    },
+    "extra data":
+    [
+        "PlayerSpawn",
+        "CameraTriggers",
+        "GroundEnemies",
+        "JumpingEnemies",
+        "FlyingEnemies",
+        "SlowEnemies",
+        "Fire",
+        "SlimeMold",
+        "Acid",
+        "Boss",
+        "BossDamagePoints",
+        "ToLevel",
+        "FromLevel"
+    ],
+    "extra data colors":
+    [
+        [255, 0  , 0  ],
+        [0  , 255, 0  ],
+        [0  , 0  , 255],
+        [255, 255, 0  ],
+        [0  , 255, 255],
+        [255, 0  , 255]
+    ]
+}
