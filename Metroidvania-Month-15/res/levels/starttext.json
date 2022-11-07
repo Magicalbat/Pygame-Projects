@@ -1,0 +1,13 @@
+{
+    "Text": [
+        "An evil scientist when missing years ago",
+        "We finally tracked his dangerous lab down",
+        "He shrunk it down and put it in space",
+        "You have do destroy everything before his shrink ray wears off",
+        "Good Luck!"
+    ],
+    "Next" : {
+        "Type" : "Level",
+        "File" : "res/levels/level 0.json"
+    }
+}
